@@ -2,4 +2,4 @@
 
 Hi everyone!
 
-I am nobody learing to code.
+I am nobody learning to code.
